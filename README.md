@@ -1,1 +1,1 @@
-# stock_market
+pip install -r requirements.txt
